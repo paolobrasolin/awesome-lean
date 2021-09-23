@@ -12,4 +12,4 @@ Lean is a functional programming language that makes it easy to write correct an
 
 ## Websites and Resources
 
-- [Lean](https://leanprover.github.io/) - Official website.
+- [Lean Community](https://leanprover-community.github.io/) - Lean Community Official website.
