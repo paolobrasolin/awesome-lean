@@ -1,6 +1,6 @@
 # Awesome Lean [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# [<img src="https://leanprover.github.io/images/lean_logo2.svg">](https://leanprover.github.io)
+[<img src="https://leanprover.github.io/images/lean_logo2.svg">](https://leanprover.github.io)
 
 > A collaborative list of awesome Lean resources. Feel free to contribute!
 
